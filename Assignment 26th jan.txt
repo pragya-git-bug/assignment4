@@ -1,0 +1,25 @@
+Assignment 26th jan
+
+Answer1
+A programming language is a formal system designed to communicate instructions to a computer. It is a set of rules and syntax used to write software programs and applications. Programming languages enable humans to create software by providing a way to express logical and computational instructions that can be understood and executed by a computer.
+
+Answer2
+Programming languages are essential tools for expressing instructions and logic in a way that computers can understand and execute. Here are several reasons why programming languages are necessary:
+Computers operate using machine code, which is a set of binary instructions. Programming languages act as an intermediary between humans and computers, allowing programmers to write code using human-readable syntax that can be translated into machine code.
+
+Answer3
+Platform Independence (Write Once, Run Anywhere)
+Object-Oriented Programming (OOP)
+Memory Management (Automatic Garbage Collection)
+Rich Standard Library
+Security Features
+
+Answer4
+In programming and object-oriented languages like Java, Python, C++, and others, an "object" is a fundamental concept. Objects are instances of a class, and they represent real-world entities with properties (attributes) and behaviors (methods). 
+
+Answer5
+In Java, a class is a blueprint or a template that defines the structure and behavior of objects. It serves as a blueprint for creating objects, which are instances of that class. The class defines the properties (attributes) and methods (behaviors) that the objects of that class will have.
+
+Answer6
+
+In Java, the main() method is a special method that serves as the entry point for a Java application. When you run a Java program, the Java Virtual Machine (JVM) looks for the main() method in the class you've specified as the starting point of the program. The main() method must have a specific signature for the JVM to recognize it.
